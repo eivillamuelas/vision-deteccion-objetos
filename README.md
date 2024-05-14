@@ -57,6 +57,11 @@ In order to make use of the library, one should just follow the next steps:
 
 2. Install the library with dependencies, preferably in a Python virtual environment (except for deployment):
 ```bash
+  python -m venv .venv
+
+```
+
+```bash
   pip install -r requirements.txt
 
 ```
