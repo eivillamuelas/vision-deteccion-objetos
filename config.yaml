@@ -1,0 +1,19 @@
+model:
+data: SDC_dataset
+epochs: 100
+time:
+patience:
+batch:
+imgsz:
+save:
+save_period:
+cache:
+device:
+workers:
+project:
+name:
+exist_ok:
+pretrained:
+optimizer:
+verbose:
+seed: 0
