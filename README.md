@@ -2,6 +2,8 @@
 
 <div style="text-align:left"><img width="50%" src="./img/sdc.jpg" /></div>
 
+https://docs.ultralytics.com/modes/train/
+
 <div id="top"></div>
 
 <!-- TOC -->
