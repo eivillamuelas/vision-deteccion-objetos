@@ -70,7 +70,7 @@ In order to make use of the library, one should just follow the next steps:
 4. Once the environment has been activated, install the library with dependencies, preferably in a Python virtual environment (except for deployment):
 ```bash
   pip install -r requirements.txt
-
+pip install -q git+https://github.com/THU-MIG/yolov10.git
 ```
 ```bash
 tensorboard --logdir ultralytics/run
